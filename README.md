@@ -2,7 +2,7 @@
 
 ---
 
-## 🧩 Problem-Level Documentation
+## Problem-Level Documentation
 
 Each problem folder contains:
 - A **Python solution**
@@ -17,7 +17,7 @@ This ensures **clarity, consistency, and interview readiness**.
 
 ---
 
-## 🎯 Learning Philosophy
+## Learning Philosophy
 
 > “Solving problems is important.  
 > Understanding *why* a solution works is what makes you an engineer.”
@@ -29,7 +29,7 @@ This repository emphasizes:
 
 ---
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 - Browse by topic
 - Open individual problem folders
@@ -38,7 +38,7 @@ This repository emphasizes:
 
 ---
 
-## 📈 Progress Tracking
+## Progress Tracking
 
 - Problems are added incrementally
 - Each topic README tracks problems solved under that category
@@ -46,14 +46,14 @@ This repository emphasizes:
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Your Name**  
 GitHub: https://github.com/your-username  
 
 ---
 
-## ⭐ If You Find This Useful
+## If You Find This Useful
 
 Feel free to:
 - Star ⭐ the repository
