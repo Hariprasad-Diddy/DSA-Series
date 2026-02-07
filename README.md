@@ -49,7 +49,7 @@ This repository emphasizes:
 ## Author
 
 **Your Name**  
-GitHub: https://github.com/your-username  
+GitHub: https://github.com/Hariprasad-Diddy
 
 ---
 
