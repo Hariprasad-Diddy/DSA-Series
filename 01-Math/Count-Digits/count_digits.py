@@ -1,4 +1,11 @@
 def _count_digits(number : int) -> int:
+  """
+    This function counts the digits of a number
+    Args:
+        number (int): The number to count the digits of
+    Returns:
+        int: The number of digits in the number
+  """
   counter : int = 0
   number : int = abs(number)
 
