@@ -17,3 +17,9 @@ Output: True
 
 Input:  -121
 Output: False
+
+Input:  “madam”
+Output: True
+
+Input:  “hello”
+Output: False
