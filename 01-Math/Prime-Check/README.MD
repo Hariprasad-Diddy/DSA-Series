@@ -16,3 +16,10 @@ Output: False
 
 Input:  n = 1
 Output: False
+
+## Approach
+
+A number `n` is prime if:
+
+- It is greater than 1
+- It has no divisors other than 1 and itself
