@@ -35,3 +35,10 @@ a^n = a × a × a … (n times)
 
 📄 **Source Code:**  
 👉 [power_of_a_number.py](./power_of_a_number.py)
+
+
+Complexity Analysis
+	•	Time Complexity: O(n)
+We perform n multiplications.
+	•	Space Complexity: O(1)
+Only a constant amount of extra space is used.
