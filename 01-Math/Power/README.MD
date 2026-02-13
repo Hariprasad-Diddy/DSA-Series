@@ -18,3 +18,20 @@ Output: 1
 
 Input:  base = 3, exponent = 4
 Output: 81
+
+
+## Approach (Iterative Multiplication)
+
+We compute the result by multiplying the base number repeatedly:
+
+1. Initialize `result = 1`
+2. Multiply `result` by `base` exactly `exponent` times
+3. Return the final result
+
+This directly follows the mathematical definition:
+a^n = a × a × a … (n times)
+
+## Python Implementation
+
+📄 **Source Code:**  
+👉 [power_of_a_number.py](./power_of_a_number.py)
