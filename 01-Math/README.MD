@@ -32,7 +32,7 @@ The problems here focus on:
 | 4 | GCD of Two Numbers | Easy | [View](./GCD) |
 | 5 | LCM of Two Numbers | Easy | [View](./LCM) |
 | 6 | Check Prime Number | Easy | [View](./Prime-Check) |
-| 7 | Count Prime Numbers | Medium | [View](./Count-Primes) |
+| 7 | Arm Strong | Easy | [View](./Arm-Strong) |
 | 8 | Factors of a Number | Easy | [View](./Factors) |
 | 9 | Power of a Number | Easy | [View](./Power) |
 | … | More problems coming | — | — |
