@@ -33,12 +33,12 @@ Input: 0
 Output: True
 
 ## Approach (Mathematical – Without String Conversion)
-  1.	If the number is negative → return False.
-	2.	Count the number of digits by repeatedly dividing by 10.
-	3.	Extract each digit using modulo (% 10).
-	4.	Raise each digit to the power of the digit count.
-	5.	Sum the values.
-	6.	Compare the sum with the original number.
+1.If the number is negative → return False.
+2.Count the number of digits by repeatedly dividing by 10.
+3.Extract each digit using modulo (% 10).
+4.Raise each digit to the power of the digit count.
+5.Sum the values.
+6.Compare the sum with the original number.
 
 Special handling:
 	•	0 is considered an Armstrong number.
