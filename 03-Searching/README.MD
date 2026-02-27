@@ -65,3 +65,24 @@ Used for:
 * Optimization under constraints
 
 Time Complexity: O(log n)
+
+## Problems List
+
+| # | Problem Name | Topic | Folder |
+|---|-------------|-----------|--------|
+| 1 | Linear Search | Linear Search | [View](./Count-Digits) |
+| 2 | Binary Search (Iterative) | Binary Search | [View](./Reverse-Number) |
+| 3 | Binary Search (Recursive) | Binary Search | [View](./Palindrome-Number) |
+| 4 | Lower Bound | Binary Search Variant | [View](./GCD) |
+| 5 | Upper Bound | Binary Search Variant | [View](./LCM) |
+| 6 | First Occurrence of Element | Binary Search Variant | [View](./Prime-Check) |
+| 7 | Last Occurrence of Element | Binary Search Variant | [View](./Arm-Strong) |
+| 8 | Count Occurrences in Sorted Array | Binary Search Variant | [View](./Factors) |
+| 9 | Search in Rotated Sorted Array | Binary Search Variant | [View](./Power) |
+| 10 | Find Peak Element | Binary Search Variant | [View](./Power) |
+| 11 | Search Insert Position | Binary Search Variants | [View](./Power) |
+| 12 | Find Minimum in Rotated Array | Binary Search Variant | [View](./Power) |
+| 13 | Square Root using Binary Search | Binary Search on Answer | [View](./Power) |
+| 14 | Allocate Minimum Pages | Binary Search on Answer | [View](./Power) |
+| 15 | Koko Eating Bananas (Classic) | Binary Search on Answer | [View](./Power) |
+
